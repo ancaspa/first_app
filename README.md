@@ -1,2 +1,2 @@
-# first_app
-RoR Tutorial
+# Vamos0
+Aplicacion Inicial
